@@ -21,7 +21,7 @@ with st.container():
 	with right_column:
 		st.title("Alexis Szedlacsek")
 		st.subheader("About me:")
-		st.write("I am a self-motivated individual offering excellent interpersonal skills owing to my experience in customer service and have a drive to learn new things. Fascinated by all things technology ever since childhood, i've decided to pursue knowledge and a career in IT and it is my goal to continuously grow in this field.  Organised, independent with strong time management skills, detail-oriented and a team player. I also possesses excellent memory and aptitude for calculations, being among the first in class wherever the case.")
+		st.write("I am a self-motivated individual offering excellent interpersonal skills owing to my experience in customer service and have a drive to learn new things. Fascinated by all things technology ever since childhood, i've decided to pursue knowledge and a career in IT after finishing university and it is my goal and dream to continuously grow in this field.  Organised, independent with strong time management skills, detail-oriented and a team player. I also possess excellent memory and aptitude for calculations, being among the first in class wherever the case.")
 
 
 # Body #
@@ -34,7 +34,7 @@ with st.container():
 			st.caption("Location: Cluj-Napoca, Cluj")
 			st.markdown(
 				"""
-    				2024
+    				2024\n
 				- https://torionstudio.com/ ~ website made from scratch by me for my father's company\n
 				February 2023 - June 2023\n
 				- **Barista at *Meron***\n
