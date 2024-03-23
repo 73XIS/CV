@@ -21,13 +21,7 @@ with st.container():
 	with right_column:
 		st.title("Alexis Szedlacsek")
 		st.subheader("About me:")
-		st.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit,\
-		    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\
-		    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris\
-			nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in\
-			reprehenderit in voluptate velit esse cillum dolore eu fugiat\
-			nulla pariatur. Excepteur sint occaecat cupidatat non proident,\
-			sunt in culpa qui officia deserunt mollit anim id est.")
+		st.write("I am a self-motivated individual offering excellent interpersonal skills owing to my experience in customer service and have a drive to learn new things. Fascinated by all things technology ever since childhood, i've decided to pursue knowledge and a career in IT and it is my goal to continuously grow in this field.  Organised, independent with strong time management skills, detail-oriented and a team player. I also possesses excellent memory and aptitude for calculations, being among the first in class wherever the case.")
 
 
 # Body #
@@ -40,6 +34,8 @@ with st.container():
 			st.caption("Location: Cluj-Napoca, Cluj")
 			st.markdown(
 				"""
+    				2024
+				- https://torionstudio.com/ ~ website made from scratch by me for my father's company\n
 				February 2023 - June 2023\n
 				- **Barista at *Meron***\n
 				October 2019 - November 2023\n
@@ -93,10 +89,10 @@ with st.container():
 			st.markdown("#")
 			st.write(
 				"""
-				- Multilingual
+				- Multilingual ( Romanian and Hungarian native speaker, English C2, German A1 )
 				- Knowledge of Python , Microsoft Powerpoint , Excel , Adobe Illustrator
 				- Great interpersonal skills
-				- Fast learner
+				- Fast and willing learner
 				- Responsible and reliable
 				- Teamwork skills
 				- Attention to detail
@@ -110,7 +106,7 @@ with st.container():
 		st.write(
 			"""
 			:placard: Cluj-Napoca, Cluj\n
-			:telephone_receiver: 0721165001\n
+			:telephone_receiver: +40 721 165 001\n
 			:e-mail: alexis.szedlacsek@yahoo.com\n
 			"""
 		)
