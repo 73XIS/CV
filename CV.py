@@ -34,7 +34,9 @@ with st.container():
 			st.caption("Location: Cluj-Napoca, Cluj")
 			st.markdown(
 				"""
-    				February 2023 - June 2023\n
+				2024\n
+				- https://torionstudio.com/ ~ website made from scratch by me for my father's company\n
+				February 2023 - June 2023\n
 				- **Barista at *Meron***\n
 				October 2019 - November 2023\n
 				- **Volunteer at *Societatea Studentilor Europenisti***\n
@@ -90,7 +92,7 @@ with st.container():
 				- Multilingual ( Romanian and Hungarian native speaker, English C2, German A1 )
 				- Knowledge of Python , Microsoft Powerpoint , Excel , Adobe Illustrator
 				- Great interpersonal skills
-				- Fast and willing learner
+				- Fast learner
 				- Responsible and reliable
 				- Teamwork skills
 				- Attention to detail
@@ -104,7 +106,7 @@ with st.container():
 		st.write(
 			"""
 			:placard: Cluj-Napoca, Cluj\n
-			:telephone_receiver: +40 721 165 001\n
+			:telephone_receiver: 0721165001\n
 			:e-mail: alexis.szedlacsek@yahoo.com\n
 			"""
 		)
