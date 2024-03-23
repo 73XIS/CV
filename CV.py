@@ -106,7 +106,7 @@ with st.container():
 		st.write(
 			"""
 			:placard: Cluj-Napoca, Cluj\n
-			:telephone_receiver: 0721165001\n
+			:telephone_receiver: +40 721 165 001\n
 			:e-mail: alexis.szedlacsek@yahoo.com\n
 			"""
 		)
