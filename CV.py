@@ -35,7 +35,7 @@ with st.container():
 			st.markdown(
 				"""
     				2024\n
-				- https://torionstudio.com/ ~ website made from scratch by me for my father's company\n
+				- st.link_button(https://torionstudio.com/) ~ website made from scratch by me for my father's company\n
 				February 2023 - June 2023\n
 				- **Barista at *Meron***\n
 				October 2019 - November 2023\n
