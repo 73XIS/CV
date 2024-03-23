@@ -34,7 +34,7 @@ with st.container():
 			st.caption("Location: Cluj-Napoca, Cluj")
 			st.markdown(
 				"""
-    				- ** website made from scratch by me for my father's company**\n
+    				- **website made from scratch by me for my father's company**\n
 				2024\n
 				- **Barista at *Meron***\n
 				October 2019 - November 2023\n
