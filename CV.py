@@ -11,6 +11,8 @@ wpercent = (base_width / float(Alexis_picture.size[0]))
 hsize = int((float(Alexis_picture.size[1]) * float(wpercent)))
 Alexis_picture = Alexis_picture.resize((base_width, hsize), Image.Resampling.LANCZOS)
 Alexis_picture.save("Alexis.jpg")
+with open ("certificate.pdf", "rb") as pdf_file:
+					Certificate = pdf_file.read()
 
 
 # Header #
@@ -64,6 +66,9 @@ with st.container():
 				*Udemy*
 				"""
 			)
+			st.download_button(label="Python Certificate",
+					   				data=Certificate,
+									file_name="Alexis_Certificate.pdf")
 			st.markdown("#")
 			st.markdown(
 				"""
@@ -89,8 +94,9 @@ with st.container():
 			st.markdown("#")
 			st.write(
 				"""
+				- Knowledge of Python
+				- Knowledge of Microsoft Office ( Powerpoint, Excel, Word ), Adobe Illustrator
 				- Multilingual ( Romanian and Hungarian native speaker, English C2, German A1 )
-				- Knowledge of Python , Microsoft Powerpoint , Excel , Adobe Illustrator
 				- Great interpersonal skills
 				- Fast learner
 				- Responsible and reliable
@@ -106,7 +112,7 @@ with st.container():
 		st.write(
 			"""
 			:placard: Cluj-Napoca, Cluj\n
-			:telephone_receiver: +40 721 165 001\n
+			:telephone_receiver: 0721165001\n
 			:e-mail: alexis.szedlacsek@yahoo.com\n
 			"""
 		)
